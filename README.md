@@ -42,7 +42,13 @@ Overall, there are 5 main campaign channel including Email, Saocial Media, Refer
     - Website visit rates across channels show minimal differences between loyalty groups, ranging from 24.4% to 25.6%
 ## Highlight Insight:
 - There is positive significan relationship between ad spend and coversion rate, when **higher advertising spend lead to stronger conversion rates**.
+-  **PPC and Referral had highest conversion rates**
 - **PPC** achieved the **highest CTR** but had **lowest acquisition cost** proved to be the most effective in attracting direct interaction, and can optimize the budget on this channel to increase quality traffic.
 - **Social Media** has the **highest share rate** proving its strong virality
 - Customer’s loyalty level has little impact on their likelihood of visiting the website through different channels.
 - **Referral** achieves its **highest conversion rate** with the **older age group**
+## Marketing Recommendation: 
+- **Focus on PPC and Referral**, as they deliver the highest conversions, with PPC also achieving the highest CTR at the lowest acquisition cost.
+- **Referral should target the older customer** to maximize results
+- Leverage Social Media’s strong share rate to boost organic reach
+- There is a clear positive relationship between ad spend and conversion, so **ensure sufficient budget is allocated to high-performing channels**. 
