@@ -12,7 +12,7 @@ This project analyzes marketing channel performance by assessing KPIs like Cost 
 
 Overall, there are 5 main campaign channel including Email, Saocial Media, Referal, SEO and PPC. Average Sd spend for each channel was about $8M, gained 198K website visit with coversion rate on overall customer was 87.65%, Ave clicj throgh rate per customer was 15.48% and CPA was $5.7K
 
-- PPC and Referral are the two highest-invested channels (both ~$8.2M) and gained the highest conversion rates of 88.28% and 88.31% respectively, followed by SEO, with budget of ~$7.7M, achieves conversion rate of 87.86%, Email had coversion rate of 87.03% from ~$7.9M investment while Social Media had the least budget(~$7.5M), shows the lowest conversion rate (86.83%).
+- PPC and Referral had been highest-invested (both ~$8.2M), gained the highest conversion rates of 88.28% and 88.31% respectively, followed by SEO, with budget of ~$7.7M, achieves conversion rate of 87.86%, Email had coversion rate of 87.03% from ~$7.9M investment while Social Media had the least budget(~$7.5M) gained the lowest conversion rate (86.83%).
 
 - The highest website traffic rate is from Referral channel (96.9%), followed by Social Media (96.3%), SEO (96.1%), PPC and Email are slightly lower with 96%.
 
