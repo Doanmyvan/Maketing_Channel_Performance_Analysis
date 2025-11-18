@@ -34,7 +34,7 @@ Overall, there are 5 main campaign channel including Email, Saocial Media, Refer
 - Age Group:
     - The middle-aged group is the largest with 58.44% of users, followed by the young group at 22.16% and the older group at 19.4%.
     - The repeat purchase rate is highest among the middle-aged group (80.1%), followed by the young group(79%) and then the older group (78.7%)
-    - onversion rates are fairly consistent across age groups for most channels. PPC and Referrall performs particularly well with older customers (34.4% & 34.9%), while Social Media, SEO and Email remain stable across all ages.
+    - Conversion rates are fairly consistent across age groups for most channels. PPC and Referrall performs particularly well with older customers (34.4% & 34.9%), while Social Media, SEO and Email remain stable across all ages.
 
 - Loyalty Levels:
     - Customer loyalty distribution: Low loyalty – 40.08%, Medium loyalty – 31.04%, High loyalty – 19.03%, and VIP – 9.86%.
