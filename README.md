@@ -24,8 +24,24 @@ Overall, there are 5 main campaign channel including Email, Saocial Media, Refer
 
 - PPC has the highest CTR (15.83%), proving to be the most effective in attracting direct interaction, while the conversion cost is the lowest (5.6K), so optimize the budget on this channel to increase quality traffic
 
-==> There is positive significan relationship between ad spend and coversion rate, when higher advertising spend lead to stronger conversion rates.
 ## Campaign Channel by Customer Segmentation: 
 <img width="897" height="343" alt="Screenshot 2025-11-18 185017" src="https://github.com/user-attachments/assets/5e2fd4b4-b874-4f1d-b16a-fa67d53f9873" />
 
-<img width="1444" height="823" alt="Screenshot 2025-11-18 155530" src="https://github.com/user-attachments/assets/9d0cb63e-392a-460d-a733-d2f7d396111c" />
+<img width="1465" height="825" alt="Screenshot 2025-11-18 223931" src="https://github.com/user-attachments/assets/22c5de75-cbc7-4a14-93be-c60bb8af0d17" />
+
+ In general, there were 8,000 users (60% female, 40% male) with a high repeat purchase rate of 79.6%. Each customer converts at 10.44% on average, viewing 5.55 pages per visit and spending 7.73 minutes on the site on average.
+
+- Age Group:
+    - The middle-aged group is the largest with 58.44% of users, followed by the young group at 22.16% and the older group at 19.4%.
+    - The repeat purchase rate is highest among the middle-aged group (80.1%), followed by the young group(79%) and then the older group (78.7%)
+    - onversion rates are fairly consistent across age groups for most channels. PPC and Referrall performs particularly well with older customers (34.4% & 34.9%), while Social Media, SEO and Email remain stable across all ages.
+
+- Loyalty Levels:
+    - Customer loyalty distribution: Low loyalty – 40.08%, Medium loyalty – 31.04%, High loyalty – 19.03%, and VIP – 9.86%.
+    -  The repeat purchase rates are consistently high across all loyalty levels, with High loyalty at 80.4%, followed by VIP at 79.8%, Low loyalty at 79.5%, and Medium loyalty at 79.1%
+    - Website visit rates across channels show minimal differences between loyalty groups, ranging from 24.4% to 25.6%
+## Highlight Insight:
+- There is positive significan relationship between ad spend and coversion rate, when higher advertising spend lead to stronger conversion rates.
+- PPC achieved the highest CTR but had lowest acquisition cost proved to be the most effective in attracting direct interaction, and can optimize the budget on this channel to increase quality traffic.
+- Social Media has the highest share rate proving its strong virality
+- Customer’s loyalty level has little impact on their likelihood of visiting the website through different channels.
