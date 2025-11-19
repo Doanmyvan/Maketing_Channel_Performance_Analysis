@@ -52,6 +52,6 @@ Overall, there are 5 main campaign channel including Email, Saocial Media, Refer
 ## Marketing Recommendation: 
 - Keep **focus on investing in PPC and Referral**, as they deliver the highest conversions, with PPC also achieving the highest CTR at the lowest acquisition cost
 - **Referral should target the older customer** to maximize results
-- Leverage **Social Media’s** strong share rate to **boost organic reach and increase the vitality**
+- Leverage **Social Media’s** strong share rate to **boost organic reach and increase the virality** to reach new potential customerscustomers
 - There is a clear positive relationship between ad spend and conversion, so **ensure sufficient budget is allocated to high-performing channels**
 - SEO and Email maintain steady performance, suitable for maintaining old customer files
