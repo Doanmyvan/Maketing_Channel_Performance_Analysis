@@ -29,7 +29,7 @@ Overall, there are 5 main campaign channel including Email, Saocial Media, Refer
 
 <img width="1465" height="825" alt="Screenshot 2025-11-18 223931" src="https://github.com/user-attachments/assets/22c5de75-cbc7-4a14-93be-c60bb8af0d17" />
 
- In general, there were 8,000 users (60% female, 40% male) with a high repeat purchase rate of 79.6%. Each customer converts at 10.44% on average, viewing 5.55 pages per visit and spending 7.73 minutes on the site on average.
+ In general, there were 8,000 users (60% female, 40% male) with a high repeat purchase rate of 79.6% customers. Each customer converts at 10.44% on average, viewing 5.55 pages per visit and spending 7.73 minutes on the site on average.
 
 - Age Group:
     - The middle-aged group is the largest with 58.44% of users, followed by the young group at 22.16% and the older group at 19.4%.
