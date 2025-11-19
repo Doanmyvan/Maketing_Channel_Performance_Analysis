@@ -40,7 +40,7 @@ Overall, there are 5 main campaign channel including Email, Saocial Media, Refer
     - Customer loyalty distribution: Low loyalty – 40.08%, Medium loyalty – 31.04%, High loyalty – 19.03%, and VIP – 9.86%.
     -  The repeat purchase rates are consistently high across all loyalty levels, with High loyalty at 80.4%, followed by VIP at 79.8%, Low loyalty at 79.5%, and Medium loyalty at 79.1%
     - Website visit rates across channels show minimal differences between loyalty groups, ranging from 24.4% to 25.6%
-## Highlight Insight:
+## Highlight Insights:
 - There is positive significan relationship between ad spend and coversion rate, when **higher advertising spend lead to stronger conversion rates**.
 -  **PPC and Referral had highest conversion rates**
 - **PPC** achieved the **highest CTR** but had **lowest acquisition cost** proved to be the most effective in attracting direct interaction, and can optimize the budget on this channel to increase quality traffic.
