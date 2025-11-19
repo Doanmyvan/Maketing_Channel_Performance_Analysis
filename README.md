@@ -40,6 +40,7 @@ Overall, there are 5 main campaign channel including Email, Saocial Media, Refer
     - Customer loyalty distribution: Low loyalty – 40.08%, Medium loyalty – 31.04%, High loyalty – 19.03%, and VIP – 9.86%.
     -  The repeat purchase rates are consistently high across all loyalty levels, with High loyalty at 80.4%, followed by VIP at 79.8%, Low loyalty at 79.5%, and Medium loyalty at 79.1%
     - Website visit rates across channels show minimal differences between loyalty groups, ranging from 24.4% to 25.5%
+  
 ## Highlight Insights:
 - There is positive significan relationship between ad spend and coversion rate, when **higher advertising spend lead to stronger conversion rates**.
 -  **PPC and Referral had highest conversion rates**
@@ -47,8 +48,10 @@ Overall, there are 5 main campaign channel including Email, Saocial Media, Refer
 - **Social Media** has the **highest share rate** proving its strong virality
 - Customer’s loyalty level has little impact on their likelihood of visiting the website through different channels.
 - **Referral** achieves its **highest conversion rate** with the **older age group**
+
 ## Marketing Recommendation: 
-- **Focus on PPC and Referral**, as they deliver the highest conversions, with PPC also achieving the highest CTR at the lowest acquisition cost.
+- Keep **focus on investing in PPC and Referral**, as they deliver the highest conversions, with PPC also achieving the highest CTR at the lowest acquisition cost
 - **Referral should target the older customer** to maximize results
-- Leverage Social Media’s strong share rate to boost organic reach
-- There is a clear positive relationship between ad spend and conversion, so **ensure sufficient budget is allocated to high-performing channels**. 
+- Leverage **Social Media’s** strong share rate to **boost organic reach and increase the vitality**
+- There is a clear positive relationship between ad spend and conversion, so **ensure sufficient budget is allocated to high-performing channels**
+- SEO and Email maintain steady performance, suitable for maintaining old customer files
